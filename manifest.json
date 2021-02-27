@@ -1,0 +1,10 @@
+﻿{
+  "Name": "GrowthFix",
+  "Author": "shekurika",
+  "Version": "0.2-beta",
+  "Description": "Fixes sprinkler and crop growth in custom locations loaded by TMXLoader.",
+  "UniqueID": "shekurika.GrowthFix",
+  "EntryDll": "GrowthFix.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [],
+}
